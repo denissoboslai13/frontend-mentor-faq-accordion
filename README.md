@@ -54,8 +54,6 @@ Users should be able to:
 
 Was a pretty cool component, i assume pretty commonly used in the real world, only took me about 1.5-2 hours of work too, so im quite happy. The only thing i could say i revised, was a bit of framer motion animating.
 
-To see how you can add code snippets, see below:
-
 ### Continued development
 
 As i said, this accordion style component is i assume fairly common, so this was good practice
