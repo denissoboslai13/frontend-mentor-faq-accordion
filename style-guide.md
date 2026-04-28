@@ -12,9 +12,9 @@ The designs were created to the following widths:
 ## Colors
 
 - White: hsl(0, 100%, 100%)
-- Purple 100: hsl(275, 100%, 97%)
-- Purple 600: hsl(292, 16%, 49%)
-- Purple 950: hsl(292, 42%, 14%)
+- Purple 100: #f9f0ff
+- Purple 600: #8c6991
+- Purple 950: #2f1533
 
 ## Typography
 
